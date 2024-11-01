@@ -1,0 +1,15 @@
+#wp-bootscraper-views{
+	width: 100%;
+	display: inline-block;
+	margin-top: 15px;
+}
+
+#wp-bootscraper-frontend-save .save{
+	margin-top: 15px;
+}
+
+#wp-bootscraper-views .all{
+	font-weight: bold;
+	margin-bottom: 5px;
+	font-size: 14px;
+}
